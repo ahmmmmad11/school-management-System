@@ -1,0 +1,214 @@
+body{
+
+}
+.login{
+	margin: 10% auto;
+	
+}
+.login-btn{
+	margin-top: 4px;
+	margin-bottom: 4px;
+	
+}
+.nav{
+	padding-right: 0px;
+}
+.navbar{
+	border-radius: 0px;
+	margin-bottom: 4px
+}
+.row{
+
+}
+@media(min-width: 768px){
+	.col-sm-4{
+	width: 32.44%
+}
+	.col-sm-3{
+	width: 24.2%
+	}
+	.col-sm-9{
+		width: 74.1%
+	}
+	.col-sm-3-3{
+		width: 24.5%
+	}
+	.col-sm-8{
+		width: 64.05%;
+	}
+}
+
+.pnl-hdr{
+	font-size: 25px; 
+}
+.pnl-hdn{
+	background: #ddd;
+	border: solid 1px #ccc;
+	margin: 5px auto;
+	margin-bottom: -2px; 
+	border-radius: 4px;
+	border-bottom: 0px;
+	width: 10%
+}
+.pnl-hdn-2{
+	background: #ddd;
+	border: solid 1px #ccc;
+	border-radius: 4px;
+	padding: 5px;
+	margin-right: 3px
+
+}
+.pnl-hdn-3{
+	margin-right: 2px;
+}
+.c-pnl{
+	padding-right: 0px;
+	padding-left: 17px
+}
+.c-pnl-2{
+	margin-left: 6px
+}
+.c-pnl-3{
+	margin-right: 6px
+}
+.pnl {
+	margin-bottom:2px;
+	margin-left: 5px; 
+	border: solid 1px #ccc;
+	border-radius: 4px;
+	background: #ddd;
+	font-size: 18px;
+	cursor: pointer;
+}
+.pnl:hover{
+	background: white;
+
+}
+.pnl-2 {
+	margin-bottom:2px;
+	margin-left: 16.9px; 
+	border: solid 1px #ccc;
+	border-radius: 4px;
+	background: #ddd;
+	font-size: 18px;
+	cursor: pointer;
+}
+.pnl-2:hover{
+	background: white;
+
+}
+
+.pnl-3 {
+	margin-bottom:2px;
+	margin-left: 11.6px; 
+	border: solid 1px #ccc;
+	border-radius: 4px;
+	background: #ddd;
+	font-size: 18px;
+	cursor: pointer;
+}
+.pnl-3:hover{
+	background: white;
+
+}
+.res-pnl{
+	margin-right: 0px;
+	padding-right: 0px;
+}
+.fa{
+}
+.ico{
+	font-size: 50px;
+	width: 60px;
+	margin-left: 5px;
+}
+.cont{
+	border: solid 1px #ccc;
+	border-radius: 4px;
+	margin-top: 2px;
+	padding-bottom: 
+
+}
+.cont-2{
+	border-radius: 4px 0px 0px 4px;
+}
+.head-det, .foot-det{
+	background: #ddd;
+	margin-bottom: 2px
+}
+.corners{
+	border-radius: 4px;
+}
+.big{
+	font-size: 50px;
+	
+}
+.align1{
+	padding-top: 15px;
+	text-align: right;
+}
+.align2{
+	text-align: left;
+}
+.tr-mar{
+	padding-right: 
+}
+.mr-bottom{
+	margin-bottom: 2px;
+}
+.mr-right{
+	margin-right: 41px
+}
+.width{
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.t-reg, .t-sec {
+	display: none;
+}
+
+.btn-te{
+	margin-bottom: 2px
+}
+.t-sec-b-sup{
+	margin-left: 6.5px
+}
+.teacher-form-ele{
+	margin-top: 4px
+}
+.teacher-mng-col{
+	margin-left: 21px;
+}
+.teacher-form-ele-btn{
+	margin-left: 15px;
+	margin-bottom: 2px
+}
+.st-mr{
+	margin-right: ;
+}
+.st-pnl-mr{
+	margin-left: 10px;
+}
+ .s-grad, .s-unreg, .s-block, .s-show, .s-elite, .c-fee{
+	display: none;
+}
+.r-res{
+	margin-left: 25px;
+	margin-right: 40px;
+}
+.footer{
+	position: re;
+	bottom: 0px;
+	height: 30px;
+	width: 100%;
+	padding-right: 0px;
+	text-align: center;
+	margin-top: 15px
+
+}
+.ack{
+	display: none;
+	border-radius: 4px;
+	background: green;
+}
